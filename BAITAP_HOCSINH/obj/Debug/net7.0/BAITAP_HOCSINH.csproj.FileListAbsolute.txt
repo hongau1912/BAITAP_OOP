@@ -1,0 +1,15 @@
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/bin/Debug/net7.0/BAITAP_HOCSINH
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/bin/Debug/net7.0/BAITAP_HOCSINH.deps.json
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/bin/Debug/net7.0/BAITAP_HOCSINH.runtimeconfig.json
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/bin/Debug/net7.0/BAITAP_HOCSINH.dll
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/bin/Debug/net7.0/BAITAP_HOCSINH.pdb
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/BAITAP_HOCSINH.csproj.AssemblyReference.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/BAITAP_HOCSINH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/BAITAP_HOCSINH.AssemblyInfoInputs.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/BAITAP_HOCSINH.AssemblyInfo.cs
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/BAITAP_HOCSINH.csproj.CoreCompileInputs.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/BAITAP_HOCSINH.dll
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/refint/BAITAP_HOCSINH.dll
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/BAITAP_HOCSINH.pdb
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/BAITAP_HOCSINH.genruntimeconfig.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/Debug/net7.0/ref/BAITAP_HOCSINH.dll

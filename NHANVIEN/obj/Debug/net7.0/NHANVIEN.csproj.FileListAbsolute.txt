@@ -1,0 +1,15 @@
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/NHANVIEN.csproj.AssemblyReference.cache
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/NHANVIEN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/NHANVIEN.AssemblyInfoInputs.cache
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/NHANVIEN.AssemblyInfo.cs
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/NHANVIEN.csproj.CoreCompileInputs.cache
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/bin/Debug/net7.0/NHANVIEN
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/bin/Debug/net7.0/NHANVIEN.deps.json
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/bin/Debug/net7.0/NHANVIEN.runtimeconfig.json
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/bin/Debug/net7.0/NHANVIEN.dll
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/bin/Debug/net7.0/NHANVIEN.pdb
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/NHANVIEN.dll
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/refint/NHANVIEN.dll
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/NHANVIEN.pdb
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/NHANVIEN.genruntimeconfig.cache
+/Users/hongau/Projects/BAITAP_OOP/NHANVIEN/obj/Debug/net7.0/ref/NHANVIEN.dll

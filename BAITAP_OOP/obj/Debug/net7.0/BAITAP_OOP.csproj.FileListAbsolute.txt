@@ -1,0 +1,15 @@
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/bin/Debug/net7.0/BAITAP_OOP
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/bin/Debug/net7.0/BAITAP_OOP.deps.json
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/bin/Debug/net7.0/BAITAP_OOP.runtimeconfig.json
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/bin/Debug/net7.0/BAITAP_OOP.dll
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/bin/Debug/net7.0/BAITAP_OOP.pdb
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.csproj.AssemblyReference.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.AssemblyInfoInputs.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.AssemblyInfo.cs
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.csproj.CoreCompileInputs.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.dll
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/refint/BAITAP_OOP.dll
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.pdb
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.genruntimeconfig.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/ref/BAITAP_OOP.dll

@@ -1,0 +1,15 @@
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/bin/Debug/net7.0/BAITAP_KETHUA
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/bin/Debug/net7.0/BAITAP_KETHUA.deps.json
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/bin/Debug/net7.0/BAITAP_KETHUA.runtimeconfig.json
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/bin/Debug/net7.0/BAITAP_KETHUA.dll
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/bin/Debug/net7.0/BAITAP_KETHUA.pdb
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/BAITAP_KETHUA.csproj.AssemblyReference.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/BAITAP_KETHUA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/BAITAP_KETHUA.AssemblyInfoInputs.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/BAITAP_KETHUA.AssemblyInfo.cs
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/BAITAP_KETHUA.csproj.CoreCompileInputs.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/BAITAP_KETHUA.dll
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/refint/BAITAP_KETHUA.dll
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/BAITAP_KETHUA.pdb
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/BAITAP_KETHUA.genruntimeconfig.cache
+/Users/hongau/Projects/BAITAP_OOP/BAITAP_KETHUA/obj/Debug/net7.0/ref/BAITAP_KETHUA.dll
