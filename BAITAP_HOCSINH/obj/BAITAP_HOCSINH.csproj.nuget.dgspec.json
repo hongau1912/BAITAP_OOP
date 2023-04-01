@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/BAITAP_HOCSINH.csproj": {}
+    "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_HOCSINH/BAITAP_HOCSINH.csproj": {}
   },
   "projects": {
-    "/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/BAITAP_HOCSINH.csproj": {
+    "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_HOCSINH/BAITAP_HOCSINH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/BAITAP_HOCSINH.csproj",
+        "projectUniqueName": "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_HOCSINH/BAITAP_HOCSINH.csproj",
         "projectName": "BAITAP_HOCSINH",
-        "projectPath": "/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/BAITAP_HOCSINH.csproj",
+        "projectPath": "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_HOCSINH/BAITAP_HOCSINH.csproj",
         "packagesPath": "/Users/hongau/.nuget/packages/",
-        "outputPath": "/Users/hongau/Projects/BAITAP_OOP/BAITAP_HOCSINH/obj/",
+        "outputPath": "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_HOCSINH/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hongau/.nuget/NuGet/NuGet.Config"

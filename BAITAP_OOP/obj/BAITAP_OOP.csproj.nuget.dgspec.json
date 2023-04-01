@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/BAITAP_OOP.csproj": {}
+    "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/BAITAP_OOP.csproj": {}
   },
   "projects": {
-    "/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/BAITAP_OOP.csproj": {
+    "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/BAITAP_OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/BAITAP_OOP.csproj",
+        "projectUniqueName": "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/BAITAP_OOP.csproj",
         "projectName": "BAITAP_OOP",
-        "projectPath": "/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/BAITAP_OOP.csproj",
+        "projectPath": "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/BAITAP_OOP.csproj",
         "packagesPath": "/Users/hongau/.nuget/packages/",
-        "outputPath": "/Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/",
+        "outputPath": "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hongau/.nuget/NuGet/NuGet.Config"

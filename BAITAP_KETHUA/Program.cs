@@ -15,6 +15,7 @@ namespace BAITAP_KETHUA
             bc1.XUAT();
             hd1.NHAP();
             hd1.XUAT();
+            Console.WriteLine("addd");
             Console.ReadKey();
         }
     }
