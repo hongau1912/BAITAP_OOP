@@ -11,7 +11,44 @@ namespace BAITAP_KETHUA
 		protected DateTime ngayVaoCoQuan;
 		protected double luongCoBan = 1490000;
 
-		public NHANVIEN()
+        public String MANV
+        {
+            set { this.maNv = value; }
+            get { return this.maNv; }
+        }
+
+        public String HOTEN
+        {
+            set { this.hoTen = value; }
+            get { return this.hoTen; }
+        }
+
+        public DateTime NGAYSINH
+        {
+            set { this.ngaySinh = value; }
+            get { return this.ngaySinh; }
+        }
+
+        public String GIOITINH
+        {
+            set { this.gioiTinh = value; }
+            get { return this.gioiTinh; }
+        }
+
+        public long SOCM
+        {
+            set { this.soCm = value; }
+            get { return this.soCm; }
+        }
+
+        public DateTime NGAYVAO
+        {
+            set { this.ngayVaoCoQuan = value; }
+            get { return this.ngayVaoCoQuan; }
+        }
+
+
+        public NHANVIEN()
 		{
 		}
 
@@ -30,7 +67,7 @@ namespace BAITAP_KETHUA
 			DateTime todayDate = DateTime.Today;
 			return (int)((todayDate - this.ngayVaoCoQuan).TotalDays / 365.242199);
 		}
-		public void NHAP()
+		public virtual void NHAP()
 		{
 			Console.WriteLine("maNv: ");
 			this.maNv = Console.ReadLine();
@@ -46,7 +83,7 @@ namespace BAITAP_KETHUA
 			this.ngayVaoCoQuan = DateTime.Parse(Console.ReadLine());
 		}
 
-		public void XUAT()
+		public virtual void XUAT()
 		{
             Console.WriteLine("maNv: " +maNv);
             Console.WriteLine("hoTen: " +hoTen);

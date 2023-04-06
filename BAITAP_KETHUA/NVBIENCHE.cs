@@ -34,14 +34,14 @@ namespace BAITAP_KETHUA
 			return (base.luongCoBan * this.heSoLuong) + this.PHUCAP();
 		}
 
-		public void NHAP()
+		public override void NHAP()
 		{
 			base.NHAP();
 			Console.WriteLine("Nhap he so luong: ");
 			this.heSoLuong = double.Parse(Console.ReadLine());
 		}
 
-		public void XUAT()
+		public override void XUAT()
 		{
 			base.XUAT();
 			Console.WriteLine("He so luong: " +this.heSoLuong);

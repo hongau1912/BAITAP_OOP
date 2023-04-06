@@ -27,12 +27,12 @@ namespace BAITAP_KETHUA
 				return this.mucLuong * 0.1 + 100000;
 		}
 
-		public void NHAP()
+		public override void NHAP()
 		{
 			base.NHAP();
 		}
 
-		public void XUAT()
+		public override void XUAT()
 		{
 			base.XUAT();
 			Console.WriteLine("mucLuong: " +this.mucLuong);
