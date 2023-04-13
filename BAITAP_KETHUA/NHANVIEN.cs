@@ -1,7 +1,7 @@
 ﻿using System;
 namespace BAITAP_KETHUA
 {
-	public class NHANVIEN
+	abstract public class NHANVIEN
 	{
 		protected string maNv;
 		protected string hoTen;
@@ -10,6 +10,9 @@ namespace BAITAP_KETHUA
 		protected long soCm;
 		protected DateTime ngayVaoCoQuan;
 		protected double luongCoBan = 1490000;
+
+		abstract public double tinhThucLinh();
+		abstract public double tinhPhuCap();
 
         public String MANV
         {

@@ -61,7 +61,7 @@ namespace BAITAP_KETHUA
             while (c == 'y')
             {
                 MENU();
-                Console.WriteLine("Nahp ky tu 'y' de tro ve MENU(): ");
+                Console.WriteLine("Nhap ky tu 'y' de tro ve MENU(): ");
                 c = Convert.ToChar(Console.ReadLine().ToUpper());
             }
             Console.ReadKey();

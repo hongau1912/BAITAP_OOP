@@ -3,7 +3,20 @@ namespace BAITAP_KETHUA
 {
 	public class NVBIENCHE:NHANVIEN
 	{
-		private double heSoLuong;
+
+		override public double tinhThucLinh()
+		{
+            return (base.luongCoBan * this.heSoLuong) + this.tinhPhuCap();
+		}
+
+        override public double tinhPhuCap()
+        {
+            if (base.THAMNIEN() >= 10)
+                return base.luongCoBan * 0.1 + 500000;
+            else
+                return base.luongCoBan * 0.1 + 200000;
+        }
+	private double heSoLuong;
 
 		public double HESOLUONG
 		{
@@ -21,18 +34,18 @@ namespace BAITAP_KETHUA
 			this.heSoLuong = heSoLuong;
 		}
 
-		public double PHUCAP()
-		{
-			if (base.THAMNIEN() >= 10)
-				return base.luongCoBan * 0.1 + 500000;
-			else
-				return base.luongCoBan * 0.1 + 200000;
-		}
+		//public double PHUCAP()
+		//{
+		//	if (base.THAMNIEN() >= 10)
+		//		return base.luongCoBan * 0.1 + 500000;
+		//	else
+		//		return base.luongCoBan * 0.1 + 200000;
+		//}
 
-		public double THUCLINH()
-		{
-			return (base.luongCoBan * this.heSoLuong) + this.PHUCAP();
-		}
+		//public double THUCLINH()
+		//{
+		//	return (base.luongCoBan * this.heSoLuong) + this.PHUCAP();
+		//}
 
 		public override void NHAP()
 		{
@@ -46,7 +59,7 @@ namespace BAITAP_KETHUA
 			base.XUAT();
 			Console.WriteLine("He so luong: " +this.heSoLuong);
 			Console.WriteLine("Tham nien: " +this.THAMNIEN());
-			Console.WriteLine("Thuc linh: " +this.THUCLINH());
+			Console.WriteLine("Thuc linh: " +this.tinhThucLinh());
 		}
 	}
 }

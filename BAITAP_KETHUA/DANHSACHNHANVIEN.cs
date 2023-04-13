@@ -83,9 +83,9 @@ namespace BAITAP_KETHUA
 			foreach (NHANVIEN nv in this.listStaff.Values)
 			{
 				if (nv is NVBIENCHE)
-					tongLuong += ((NVBIENCHE)nv).THUCLINH();
+					tongLuong += ((NVBIENCHE)nv).tinhThucLinh();
 				else if (nv is NVHOPDONG)
-					tongLuong += ((NVHOPDONG)nv).THUCLINH();
+					tongLuong += ((NVHOPDONG)nv).tinhThucLinh();
 			}
 			Console.WriteLine("Tong quy luong: " +tongLuong);
 		}

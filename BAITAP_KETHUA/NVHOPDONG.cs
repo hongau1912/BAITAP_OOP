@@ -19,13 +19,13 @@ namespace BAITAP_KETHUA
 			this.mucLuong = mucLuong;
 		}
 
-		public double PHUCAP()
-		{
-			if (base.THAMNIEN() >= 2)
-				return this.mucLuong * 0.1 + 200000;
-			else
-				return this.mucLuong * 0.1 + 100000;
-		}
+		//public double PHUCAP()
+		//{
+		//	if (base.THAMNIEN() >= 2)
+		//		return this.mucLuong * 0.1 + 200000;
+		//	else
+		//		return this.mucLuong * 0.1 + 100000;
+		//}
 
 		public override void NHAP()
 		{
@@ -37,13 +37,21 @@ namespace BAITAP_KETHUA
 			base.XUAT();
 			Console.WriteLine("mucLuong: " +this.mucLuong);
 			Console.WriteLine("thamNien: " +this.THAMNIEN());
-			Console.WriteLine("thucLinh: " +this.THUCLINH());
+			Console.WriteLine("thucLinh: " +this.tinhThucLinh());
 		}
 
-		public double THUCLINH()
-		{
-			return base.luongCoBan + this.mucLuong + this.PHUCAP();
+        override public double tinhThucLinh()
+        {
+			return base.luongCoBan + this.mucLuong + this.tinhPhuCap();
 		}
-	}
+
+        override public double tinhPhuCap()
+        {
+            if (base.THAMNIEN() >= 2)
+                return this.mucLuong * 0.1 + 200000;
+            else
+                return this.mucLuong * 0.1 + 100000;
+        }
+    }
 }
 
