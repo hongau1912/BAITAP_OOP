@@ -13,3 +13,8 @@
 /Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.pdb
 /Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.genruntimeconfig.cache
 /Users/hongau/Projects/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/ref/BAITAP_OOP.dll
+/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.csproj.AssemblyReference.cache
+/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.AssemblyInfoInputs.cache
+/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.AssemblyInfo.cs
+/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/BAITAP_OOP/obj/Debug/net7.0/BAITAP_OOP.csproj.CoreCompileInputs.cache

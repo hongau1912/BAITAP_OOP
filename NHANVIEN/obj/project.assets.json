@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/NHANVIEN/NHANVIEN.csproj",
+      "projectUniqueName": "/Users/hongau/Downloads/CodeC/learn_c_home/BAITAP_OOP/NHANVIEN/NHANVIEN.csproj",
       "projectName": "NHANVIEN",
-      "projectPath": "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/NHANVIEN/NHANVIEN.csproj",
+      "projectPath": "/Users/hongau/Downloads/CodeC/learn_c_home/BAITAP_OOP/NHANVIEN/NHANVIEN.csproj",
       "packagesPath": "/Users/hongau/.nuget/packages/",
-      "outputPath": "/Users/hongau/Downloads/Code/learn_c_home/BAITAP_OOP/NHANVIEN/obj/",
+      "outputPath": "/Users/hongau/Downloads/CodeC/learn_c_home/BAITAP_OOP/NHANVIEN/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hongau/.nuget/NuGet/NuGet.Config"
